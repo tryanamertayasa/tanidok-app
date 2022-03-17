@@ -7,3 +7,4 @@ Briefcase, Duffle, Handbag and Purse.
 Clone/Fork repository
 cd to file 
 run pip install -r requirements.txt
+# tanidok-app
